@@ -1,8 +1,11 @@
 # farsifont
 you can easily install farsi font in your linux
 Install some Persian fonts (XB Series) and Tahoma on Linux
+you just need to install wget or any downloder
+you can use "axel" instead of default "wget", just install axel first and call this
+with axel parameter.
 
-just with chmod give it executive permision and run it
+just with chmod command give it executive permission and run it
 when u see this page
 
 * All fonts are going to be install in '.fonts' directory in your home.
@@ -20,3 +23,4 @@ Your choice (35 for quit):
 
 choose 34 to choose all font and hit enter,
 wait a couple of minute and then you install farsi font in your ~/.font/
+
